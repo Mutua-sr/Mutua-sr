@@ -1,6 +1,6 @@
 # Hello, I'm [Mutua Meshack] 👋
 
-![Profile Banner(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Frandom%2F&psig=AOvVaw0nbEF4RBwRnY5_D5j4vUKy&ust=1717939993841000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiF0qqPzIYDFQAAAAAdAAAAABAE)/800x200.png?text=Welcome+to+my+GitHub+Profile)
+[Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
 
 ## About Me
 
