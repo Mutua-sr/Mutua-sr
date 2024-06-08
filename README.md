@@ -4,15 +4,15 @@
 
 ## About Me
 
-I'm a passionate software engineering student at [Your University]. I'm keen on learning new technologies, contributing to open-source projects, and working on exciting projects that make a difference.
+I'm a passionate software engineering student at Kenyatta University. I'm keen on learning new technologies, contributing to open-source projects, and working on exciting projects that make a difference.
 
-- 🔭 I’m currently working on [Your Project].
-- 🌱 I’m currently learning [Technology/Language].
+- 🔭 I’m currently working on generative AI.
+- 🌱 I’m currently learning Python and Artificial Intelligence.
 - 👯 I’m looking to collaborate on [Open Source Projects/Any Project].
 - 🤔 I’m looking for help with [Problem/Project].
 - 💬 Ask me about [Technology/Projects/Topics].
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
+- 📫 How to reach me: kimanthimutua642@gmail.com
+
 
 ## Projects
 
@@ -30,19 +30,19 @@ A brief description of what this project does, the technologies used, and any no
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, Visual Studio Code
 - **Databases**: MySQL, MongoDB
-- **Others**: HTML, CSS, Linux
+- **Others**: HTML, CSS
 
 ## Education
 
-- **[Your Degree]** in Software Engineering, [Your University], [Year of Graduation]
+- Bachelos of information technology, Kenyatta University, Third Year
 
 ## Contact
 
 Feel free to reach out to me!
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
+- Email: kimanthimutua642@gmail.com
+- LinkedIn: Mutua-sr
+- Twitter: s2r.mesh
 
 ## Stats
 
@@ -51,9 +51,9 @@ Feel free to reach out to me!
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourusername/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/Mutua Meshack/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/s2r.mesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Mutua-sr/)
 
 ---
 
