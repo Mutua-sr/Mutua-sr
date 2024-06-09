@@ -18,14 +18,6 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 
 - Bachelors of information technology, Kenyatta University, Third Year
 
-## Contact
-
-Feel free to reach out to me!
-
-- Email: kimanthimutua642@gmail.com
-- LinkedIn: Mutua-sr
-- Twitter: s2rMesh
-
 ## Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mutua-sr&show_icons=true&theme=radical)
