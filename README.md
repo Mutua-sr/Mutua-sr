@@ -20,7 +20,7 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutua-sr&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutua-sr&rank_icon=github&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutua-sr&layout=donut)
 
 ## Let's Connect!
