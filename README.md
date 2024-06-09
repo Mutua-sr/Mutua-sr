@@ -1,6 +1,4 @@
-# Hello, I'm [Mutua Meshack]
-
-[Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
+# Hello, I'm Mutua Meshack
 
 ## About Me
 
@@ -40,5 +38,3 @@ Feel free to reach out to me!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Mutua-sr/)
 
 ---
-
-⭐️ From Mutua-sr(https://github.com/Mutua-sr)
