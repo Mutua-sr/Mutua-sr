@@ -51,10 +51,10 @@ Feel free to reach out to me!
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/Mutua Meshack/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mutua-m-165217242/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/s2r.mesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Mutua-sr/)
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From Mutua-sr(https://github.com/Mutua-sr)
