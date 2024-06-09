@@ -18,14 +18,6 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 
 - Bachelors of information technology, Kenyatta University, Third Year
 
-  ## stat
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutua-sr&repo=github-readme-stats" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutua-sr&repo=convoychat" />
-</a>
-
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutua-sr&theme=transparent)
