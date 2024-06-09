@@ -4,7 +4,7 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 
 - 🌱 I’m currently learning Python and Artificial Intelligence.
 
-## Skills
+# Skills
 
 - **Languages**: Python, JavaScript
 - **Frameworks**: React, Node.js, Django
@@ -12,16 +12,20 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 - **Databases**: MongoDB
 - **Others**: HTML, CSS
 
-## Education
+# Education
 
 - Bachelors of information technology, Kenyatta University, Third Year
 
-## Stats
+# Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutua-sr&hide_border&rank_icon=github&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutua-sr&langs_count=8&hide_progress=true)
 
-## Let's Connect!
+# Trophies
+
+https://github-profile-trophy.vercel.app/?username=Mutua-sr&theme=flat
+
+# Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mutua-m-165217242/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/s2rMesh/)
