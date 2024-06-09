@@ -23,7 +23,7 @@ I'm a passionate software engineering student at Kenyatta University. I'm keen o
 
 # Trophies
 
-https://github-profile-trophy.vercel.app/?username=Mutua-sr&theme=flat
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mutua-sr&theme=flat)
 
 # Let's Connect!
 
