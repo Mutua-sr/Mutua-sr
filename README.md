@@ -1,17 +1,15 @@
 # Hello, I'm Mutua Meshack
 
-## About Me
-
 I'm a passionate software engineering student at Kenyatta University. I'm keen on learning new technologies, contributing to open-source projects, and working on exciting projects that make a difference.
 
 - 🌱 I’m currently learning Python and Artificial Intelligence.
 
 ## Skills
 
-- **Languages**: Python, Java, C++, JavaScript
+- **Languages**: Python, JavaScript
 - **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Visual Studio Code
-- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Visual Studio Code
+- **Databases**: MongoDB
 - **Others**: HTML, CSS
 
 ## Education
